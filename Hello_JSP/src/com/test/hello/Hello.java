@@ -11,6 +11,6 @@ public class Hello {
 		System.out.println("자바");
 		// 0002: local/master edit by Lim
 		System.out.println("local edit 1234");
-		// 0002: end
+		// 0002: end 
 }
 }
