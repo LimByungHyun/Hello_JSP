@@ -7,6 +7,11 @@ public class Hello {
 		System.out.println("hotfix edit/modify");
 		// 0123456: end
 		
+		// 0000001: hofix edit by Lim
+		System.out.println("오늘도 웃자 병현아");
+		// 0000001: end
+		
+		
 		// 0001: origin/master edit by Lim
 		System.out.println("자바");
 		
