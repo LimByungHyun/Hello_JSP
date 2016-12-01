@@ -9,5 +9,8 @@ public class Hello {
 		
 		// 0001: origin/master edit by Lim
 		System.out.println("자바");
+		// 0002: local/master edit by Lim
+		System.out.println("local edit 1234");
+		// 0002: end
 }
 }
