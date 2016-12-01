@@ -17,5 +17,9 @@ public class Hello {
 		// 0003: origin/master edit by Lim
 		System.out.println("GitHub edit 4567");
 		// 0003: end
+		
+		// 0004: pull by Lim
+		System.out.println("GitHub edit 4134");
+		// 0004: end
 }
 }
